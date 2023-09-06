@@ -21,3 +21,13 @@ To approach this task of collecting image data from the web and summarizing it i
 10. Share or publish the dataset: If you intend to share or publish your dataset, consider hosting it on a platform like Kaggle, GitHub, or a dedicated data repository. Provide clear documentation and instructions on how to use the dataset, including any licensing or usage restrictions.
 
 Remember to always respect the terms of service, copyright laws, and privacy policies of the websites you scrape data from. Additionally, be mindful of the ethical considerations surrounding data collection and usage.
+
+
+Gather images for your dataset.
+Rename the pictures according to their classes.
+Merge them into one folder.
+Resize the pictures.
+Convert all images into the same file format.
+Convert images into a CSV file.
+A few tweaks to the CSV file.
+Load the CSV (BONUS)
