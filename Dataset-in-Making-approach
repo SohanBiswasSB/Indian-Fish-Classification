@@ -23,6 +23,15 @@ To approach this task of collecting image data from the web and summarizing it i
 Remember to always respect the terms of service, copyright laws, and privacy policies of the websites you scrape data from. Additionally, be mindful of the ethical considerations surrounding data collection and usage.
 
 
+Total Images: 30 
+Pilot Images: 10 (Deemed to be 100% accuracy always)
+Have the remaining assets breakdown to 60%-40% appraoch
+Train Images: 12 (Train this based on the Pilot Images)
+Test Images: 6 (Test this based on the integrated total of both Pilot and Train Images)
+
+
+
+
 Gather images for your dataset.
 Rename the pictures according to their classes.
 Merge them into one folder.
@@ -31,3 +40,20 @@ Convert all images into the same file format.
 Convert images into a CSV file.
 A few tweaks to the CSV file.
 Load the CSV (BONUS)
+
+
+Collect images of the object from different angles and perspectives.
+Gather images of the object in variable lighting conditions.
+Gather images with different object sizes and distances for greater variance.
+
+Supervised Classification.
+Unsupervised Classification.
+Convolutional Neural Network.
+Support Vector Machine.
+K-Nearest Neighbor.
+Naïve Bayes Algorithm.
+Random Forest Algorithm.
+Contact.
+
+
+
